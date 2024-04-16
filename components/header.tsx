@@ -59,7 +59,7 @@ export function Header() {
         <Button asChild size="sm" variant="ghost">
           <a
             target="_blank"
-            href="https://github.com/vercel-labs/gemini-chatbot"
+            href="https://github.com/Ajay-Dhangar/gemini-ai-chatbot/"
             rel="noopener noreferrer"
           >
             <IconGitHub />
@@ -68,7 +68,7 @@ export function Header() {
         </Button>
         <Button asChild size="sm" className="rounded-lg gap-1">
           <a
-            href="https://vercel.com/templates/next.js/gemini-ai-chatbot"
+            href="https://vercel.com"
             target="_blank"
           >
             <IconVercel className="size-3" />

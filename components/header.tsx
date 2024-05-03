@@ -68,7 +68,7 @@ export function Header() {
         </Button>
         <Button asChild size="sm" className="rounded-lg gap-1">
           <a
-            href="https://vercel.com"
+            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fajay-dhangar%2Fgemini-ai-chatbot&env=GOOGLE_GENERATIVE_AI_API_KEY%2CAUTH_SECRET&envDescription=API+Keys&envLink=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fgemini-chatbot%2Fblob%2Fmain%2F.env.example&demo-url=https%3A%2F%2Fgemini.vercel.ai&stores=%5B%7B"type"%3A"kv"%7D%5D&from=templates&skippable-integrations=1&demo-description=Gemini-powered+chatbot+with+the+Vercel+AI+SDK%2C+Next.js%2C+and+React.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F1nvXeRtBeI8sLr1TwJn26j%2F78310e410e7f0c209b306c6bc50b4034%2FGemini.jpg&demo-title=Gemini+AI+Chatbot&project-name=Gemini+AI+Chatbot&repository-name=gemini-ai-chatbot&teamSlug=clone"
             target="_blank"
           >
             <IconVercel className="size-3" />
